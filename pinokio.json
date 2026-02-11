@@ -1,0 +1,8 @@
+{
+  "title": "Discord ID Bypass Tool",
+  "description": "Browser-based 3D avatar head and mouth controller with keyboard and gamepad support. https://github.com/promptpirate-x/discord-id-bypass-tool",
+  "icon": "logo.png",
+  "plugin": {
+    "menu": []
+  }
+}
